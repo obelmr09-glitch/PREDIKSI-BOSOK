@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1A237E</color>
+    <color name="primary_dark">#0D1452</color>
+    <color name="accent">#FFD700</color>
+    <color name="bg_dark">#0F0F1E</color>
+    <color name="bg_card">#1E2142</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_gold">#FFD700</color>
+    <color name="text_gray">#B0B0C0</color>
+    <color name="hk_color">#E53935</color>
+    <color name="sd_color">#1E88E5</color>
+    <color name="sg_color">#43A047</color>
+</resources>
