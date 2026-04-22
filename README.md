@@ -1,0 +1,2 @@
+# PREDIKSI-BOSOK
+Aplikasi Prediksi
